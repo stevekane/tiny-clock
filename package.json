@@ -1,0 +1,22 @@
+{
+  "name": "tiny-clock",
+  "version": "0.0.1",
+  "description": "This is a tiny clock module that stores start/stop/last timeStamps.  It has a tick() method that iterates the timeStamp",
+  "main": "tiny-clock.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevekane/tiny-clock.git"
+  },
+  "keywords": [
+    "clock",
+    "timestamps"
+  ],
+  "author": "Steve Kane",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~2.3.0"
+  }
+}
